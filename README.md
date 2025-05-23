@@ -30,7 +30,7 @@ This project is a full-stack Node.js application that allows user registration a
 
 https://github.com/user-attachments/assets/cdf20fbb-ff7d-4199-8624-04f57b3f0dcd
 
-ideo 
+
 
 ## 📁 Folder Structure
 Full-Stack-Authentication-With-File-Upload/
